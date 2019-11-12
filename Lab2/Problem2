@@ -1,1 +1,16 @@
+using system;
 
+namespace 1050IndiaCampbell 2
+{
+	// Displaying multiple lines of text with string formatting.
+	using System;
+	public class Welcome4
+		//Main method begins excution of C# application
+	{
+		public static void Main(string[] args)
+		{
+			Console.WriteLine("{0}\nfrom India", "Hello World!");
+
+		} // end Main
+	} // end class Welcome4
+}
