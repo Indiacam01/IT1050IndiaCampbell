@@ -26,7 +26,7 @@ namespace Lab2ICampbell
 			number2 = Convert.ToInt32(Console.ReadLine());
 
 			sum = number1 = number2; //add numbers
-			Console.WriteLine(" Sum is " + sum); // display sum
+			Console.WriteLine(" Sum is " + product); // display product
 
 
 
