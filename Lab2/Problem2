@@ -9,7 +9,7 @@ namespace 1050IndiaCampbell 2
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("{0}\nfrom India", "Hello World!");
+			Console.WriteLine("{0}\ nfrom India", "Hello World!");
 
 		} // end Main
 	} // end class Welcome4
