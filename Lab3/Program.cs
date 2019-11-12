@@ -1,7 +1,5 @@
 using System;
 
-
-
 namespace IT1050IndiaCampbell
 
 {
@@ -30,7 +28,7 @@ namespace IT1050IndiaCampbell
 
 
 
-			bool isTrue;
+			Bool isTrue;
 
 			isTrue = true;
 
