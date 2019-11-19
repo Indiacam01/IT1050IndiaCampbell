@@ -62,3 +62,53 @@ namespace _1050ITIndiaCampbellLab4_part_2
                 
 }
 
+            using System;
+
+namespace IT1050IndiaCampbellLab4_Part_3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Zoo
+            Console.WriteLine("Please enter exhibit number:");
+            {
+                string str = Console.ReadLine()
+                   caseswitch = (str);
+                switch (caseswitch)
+
+                {
+                    Console.WriteLine("Polar Bear");
+
+                    Console.WriteLine("Penguin");
+
+                    Console.WriteLine("Moose");
+
+                    Console.WriteLine("Reindeer");
+
+                    Console.WriteLine("Deer");
+
+                    Console.WriteLine("Turtle");
+
+                    Console.WriteLine("Lion");
+
+                    Console.WriteLine("Fish");
+
+                    Console.WriteLine("Bug");
+            }
+
+              
+            }
+                  
+
+
+
+
+
+
+
+
+        }
+    }
+}       
+  
