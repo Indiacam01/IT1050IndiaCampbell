@@ -1,16 +1,26 @@
 using System;
 
-namespace IT1050IndiaCampbellLab 5
+namespace Midterm
 {
     class Program
-{
-    static void Main(string[] args)
     {
-         class MyDog
-    {
-        MyDog = new Dog("morris");
+        static void Main(string[] args)
+        {
+
+            bool icyrain = false, tornadowarning = false;
+            if (icyrain == false && tornadowarning == false)
+            {
+                Console.WriteLine("Let's God Outside!");
+            }
+
+        }
+
+
+
+
+
     }
 
-        MyDog.bark("morris");
-    
-    }
+
+
+}
