@@ -45,3 +45,52 @@ namespace IT1050IndiaCampbellLab6
         }
     }
 }
+
+using System;
+
+namespace IT1050IndiaCampbellLab6
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] names = { "Al Dente", "Anna Graham", "Earle Bird", "Ginger Rayle", "Iona Ford" };
+
+            for (int i = 0; i < names.Length; i++)
+            
+            {
+                Console.WriteLine(names[i]);
+
+
+            }
+
+
+        }
+    }
+}
+
+
+using System;
+
+namespace IT1050IndiaCampbellLab6
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] names = { "Al Dente", "Anna Graham", "Earle Bird", "Ginger Rayle", "Iona Ford" };
+
+            for (int i = 0; i < names.Length; i++)
+            
+            {
+                Console.WriteLine("{0,2}. {1}", i, names[i]);
+
+
+            }
+
+
+        }
+    }
+}
+
+
