@@ -14,3 +14,16 @@ namespace IT1050IndiaCampbellLab6
     }
 }
 
+namespace IT1050IndiaCampbellLab6
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            String[] seasons = { "Spring", "Summer", "Fall", "Winter" };
+
+            foreach (string day in seasons)
+                Console.WriteLine(day);
+        }
+    }
+}
