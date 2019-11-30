@@ -27,3 +27,21 @@ namespace IT1050IndiaCampbellLab6
         }
     }
 }
+
+namespace IT1050IndiaCampbellLab6
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] elements = new int[1000];
+
+            foreach (int element in elements)
+                Console.WriteLine(element);
+
+            Random random = new Random();
+            int randomNumber;
+                randomNumber = random.Next(5,60);
+        }
+    }
+}
